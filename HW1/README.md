@@ -1,4 +1,4 @@
-**# HW1 - Bass Model: Innovation Diffusion Analysis**
+**HW1 - Bass Model: Innovation Diffusion Analysis**
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-**## Project Overview**
+**Project Overview**
 
 
 
@@ -22,7 +22,7 @@ After that, I used the estimated parameters to predict Garmin's adoption over 15
 
 
 
-**## Project Files**
+**Project Files**
 
 
 
@@ -40,7 +40,7 @@ After that, I used the estimated parameters to predict Garmin's adoption over 15
 
 
 
-**## How to Reproduce the Results**
+**How to Reproduce the Results**
 
 
 
@@ -52,7 +52,7 @@ To reproduce the results, open the Jupyter Notebook, make sure the dataset path 
 
 
 
-**## Data Sources**
+**Data Sources**
 
 
 
